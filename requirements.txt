@@ -1,2 +1,3 @@
 streamlit
-yfinance
+pandas
+yfinance   # only needed for prepare_data.py; harmless for the app
